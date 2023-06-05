@@ -60,7 +60,7 @@ The Berkeley Segmentation Dataset (BSD) containing 500 images of size 321x481 pi
 
 ### License
 
-(C) Rémi Giraud, 2020  
+(C) Rémi Giraud, 2019
 remi.giraud@u-bordeaux.fr  
 [https://remi-giraud.enseirb-matmeca.fr](https://remi-giraud.enseirb-matmeca.fr)  
 ENSEIRB-MATMECA (Bordeaux INP), Laboratory IMS
