@@ -22,7 +22,7 @@ Implementation of paper:  [PDF](https://arxiv.org/abs/1901.11111)
 - Linux
 
 - For C++ version:  [CImg library](http://cimg.eu/)  (unique .h already included)
-- 
+
 
 ### Execution
 
