@@ -55,8 +55,12 @@ make
 
 ### Data
 
-The Berkeley Segmentation Dataset (BSD) containing 500 images of size 321x481 pixels with segmentation and contour ground truths is available 
+The Berkeley Segmentation Dataset (BSD): containing 500 images of size 321x481 pixels with segmentation and contour ground truths is available 
 [here](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
+
+CTD: Composite texture dataset: mix-Brodatz: Natural composite texture dataset using images from the Brodatz dataset image
+mix-Stripes: Synthetic composite texture dataset combining lines with different orientations
+[here] https://github.com/rgiraud/ctd
 
 ### License
 
