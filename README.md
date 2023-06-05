@@ -1,4 +1,4 @@
-## Texture-Aware Superpixel Segmentation
+## Texture-Aware Superpixel Segmentation (TASP)
 
 ### Overview
 
