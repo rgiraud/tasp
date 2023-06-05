@@ -2,7 +2,7 @@
 
 ### Overview
 
-Implementation of paper:   [PDF]([https://arxiv.org/abs/1901.11111](https://arxiv.org/abs/1901.11111))
+Implementation of paper:  [PDF](https://arxiv.org/abs/1901.11111)
 ```
 @inproceedings{giraud2019tasp,
   title={Texture-Aware Superpixel Segmentation},
