@@ -60,7 +60,7 @@ The Berkeley Segmentation Dataset (BSD): containing 500 images of size 321x481 p
 
 CTD: Composite texture dataset: mix-Brodatz: Natural composite texture dataset using images from the Brodatz dataset image
 mix-Stripes: Synthetic composite texture dataset combining lines with different orientations
-[here]https://github.com/rgiraud/ctd
+[here](https://github.com/rgiraud/ctd)
 
 ### License
 
